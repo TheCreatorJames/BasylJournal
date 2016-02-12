@@ -14,7 +14,7 @@ All you have to do is type in a journal password, and it will create a new (or o
 
 - Keeps your Entries Encrypted with a Powerful Encryption Algorithm
 - Compresses your Journal Entries so they take up as little room on your hard drive as possible.
-- Keeps your Entries Organized. No more scattered hard drives.
+- Keeps your Entries Organized. No more scattered files across hard drives. No more searching.
 
 ---
 ### How it works
